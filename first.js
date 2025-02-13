@@ -3,3 +3,6 @@ console.log(button);
 
 const footer ="Footer added in our website";
 console.log(footer);
+
+
+console.log("latest changes");
