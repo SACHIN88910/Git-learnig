@@ -6,3 +6,6 @@ console.log(login);
 
 const payment ="Integarated the payment gatemay";
 console.log(payment);
+
+const upi="Integarted the UPI";
+console.log(upi);
