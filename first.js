@@ -6,3 +6,6 @@ console.log(footer);
 
 
 console.log("latest changes");
+
+// I am fixing some Bug
+console.log("Bug fixed");
